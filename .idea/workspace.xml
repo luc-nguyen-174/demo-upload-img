@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="470521ad-a623-4241-bcec-07bc57887b40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/demo/demo_case/.idea/demo_case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/demo/demo_case/ogani-master/.idea/ogani-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/.idea/demo-book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-horizontal-form/horizon-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-inline-form/inline-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo-vertical-form/vertical-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-book/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/.idea/demo-bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/.idea/demo-bs4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/horizontal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/inline-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs4/vertical-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs5/.idea/demo-bs5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-bs5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/.idea/demo-grid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-grid/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/.idea/demo-login-form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo-login-form/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module 3/html/demo_css/.idea/demo_css.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Doc3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 2/minitest/w1/lession-1" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 2/minitest/w1/lession-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo_css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo_css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module 3/html/demo_wiki/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module 3/html/demo_wiki/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module Test/untitled2/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Module Test/untitled2/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Module1/Git/bai4/demo1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 01 - Pseudo Code  Flowchart.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 02 - Git  HTML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 03 - HTML Form  Table.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 04 - JavaScript Overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 05 - Variable and Data Types.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 06 - Conditional Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 07 - Loop Statements.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 08 - Arrays.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 09 - Function.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 10 - Introduction to OOP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Slides/Slide 11 - Objects and Classes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TKB-Module 1 .xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/html_va_thuoctinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/html_va_thuoctinh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../WebStorm/html/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../WebStorm/html/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../baitap/baitap-codegym" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo-git-html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo2/demo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/1.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/Biểu đồ không có tiêu đề.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/Bản sao Biểu đồ không có tiêu đề.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/sosanh3so_abc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/tim_gia_tri_lon_nhat_trong_3_so.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../draw.io/tinh_diem_trung_binh.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/Git &amp; HTML.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/luc.nguyen.C1122H1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mindmap/luc.nguyen_C1122H1_nhapmonlaptrinh.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tài liệu/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../xep_hang_hoc_sinh.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Đề cương.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2NaUClDJjxSqPusZXRhuwudEFha" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/Codegym/Module 4/demo/spring-upload-file/src/main/webapp/WEB-INF/views",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "2b9332f76eaac4c13ee03eae5aaebd0f",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.86" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.86" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/product" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : com.codegym : UploadFile-1.0-SNAPSHOT.war (exploded)">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ce0cbb7d-ad27-4d36-8e3d-a9212ceb495b" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57190" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.codegym : UploadFile-1.0-SNAPSHOT.war (exploded)" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="470521ad-a623-4241-bcec-07bc57887b40" name="Changes" comment="" />
+      <created>1679901561236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679901561236</updated>
+      <workItem from="1679901562785" duration="10215000" />
+      <workItem from="1679912648602" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/codegym/controller/ProductController.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
