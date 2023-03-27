@@ -26,9 +26,12 @@ import java.util.List;
 public class ProductController {
     private final IProductService productService = new ProductService();
 
+    //đường dẫn tới server
     @Value("${file-upload}")
     private String fileUpload;
 
+
+    //ánh xạ tới index
     @GetMapping("")
     public String index(Model model) {
         List<Product> products = productService.findAll();
@@ -36,6 +39,8 @@ public class ProductController {
         return "/index";
     }
 
+
+    //ánh xạ tới phương thức create tạo đối tượng
     @GetMapping("/create")
     public ModelAndView showCreateForm() {
         ModelAndView modelAndView = new ModelAndView("/create");
@@ -43,6 +48,8 @@ public class ProductController {
         return modelAndView;
     }
 
+
+    //ánh xạ tới phương thức save để lưu đối tượng và upload file
     @PostMapping("/save")
     public ModelAndView saveProduct(@ModelAttribute ProductForm productForm) {
         MultipartFile multipartFile = productForm.getImage();
